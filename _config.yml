@@ -1,7 +1,7 @@
 name: Prep Your Home
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.6432
+layout_spectrum: 0.9127
+typography_spectrum: 0.78642
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#ffffff'
+    - '#000000'
+    - '#ed2225'
+    - '#727272'
+    - '#a6a6a6'
   brandStrength: 0.125
   lightness: 0.5294787685852498
   saturation: 0.9244110721629113
